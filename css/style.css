@@ -222,3 +222,10 @@ img {
 .educ {
   margin: 12px 0;
 }
+.black {
+  color: #000000;
+}
+.black::before {
+  font-size: 50px;
+  top: -21px;
+}
