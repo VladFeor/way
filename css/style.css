@@ -80,7 +80,7 @@ h6 {
 /*--------------------*/
 body {
   padding: 40px;
-  min-height: 1400px;
+  min-height: 1250px;
 }
 a.contact__text {
   text-decoration: underline;
@@ -151,7 +151,7 @@ img {
 .profesion {
   color: #000000;
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1.3rem;
   margin-bottom: 20px;
 }
 .person {
